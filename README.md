@@ -1,8 +1,5 @@
-# `@ubiquity/ts-template`
+# `@ubiquity/series-a`
 
-This template repository includes support for the following:
+Alright team, we spent the entire last cycle building for this moment. 
 
-- TypeScript
-- Environment Variables
-- Conventional Commits
-- Automatic deployment to Cloudflare Pages
+Let's close $10-$20M USD at a $100M-$200M valuation by 1 September 2024!
